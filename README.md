@@ -23,7 +23,7 @@ These projects demonstrate practical skills in **threat detection, malware analy
 
 | Case Study | Description | Report |
 |------------|------------|------|
-| AgentTesla Malware PCAP Analysis | Investigation of AgentTesla Trojan traffic and file extraction from PCAP. | [`agenttesla-pcap-analysis.md`]([https://github.com/FCyber88/CyberSec_Projects/blob/main/Malware_Traffic_Analysis/AgentTesla_Malware_Analysis/Report/AgentTesla_Pcap_Analysis.md)]) |
+| AgentTesla Malware PCAP Analysis | Investigation of AgentTesla Trojan traffic and file extraction from PCAP. | [`formbook-malware-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/CaseStudy_2/Report/report.md) |
 | FormBook Malware Traffic Analysis | Analysis of FormBook malware communication, C2 traffic, and suspicious downloads. | [`formbook-malware-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/CaseStudy_2/Report/report.md) |
 | FormBook2 Malware Traffic Analysis | Analysis of FormBook malware communication, C2 traffic, and suspicious downloads | [`formbook-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/CaseStudy_3/Report/Report.md) |
 | FormBook3 Malware Traffic Analysis | Analysis of FormBook malware communication, C2 traffic, and suspicious downloads | [`formbook2-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/CaseStudy_4/Report/report.md) |
