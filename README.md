@@ -29,7 +29,7 @@ These projects demonstrate practical skills in **threat detection, malware analy
 | FormBook3 Malware Traffic Analysis | Analysis of FormBook malware communication, C2 traffic, and suspicious downloads | [`formbook2-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/Malware_Traffic_Analysis/FormBook_Malware_Analysis/Report3/FormBook20_Malware_Analysis.md) |
 | ReadLine Malware Traffic Analysis 1| Analysis of ReadLine Stealer malware communication, C2 traffic, and exfiltration of system-sensitive data | [`readline-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/Malware_Traffic_Analysis/RedLine_Malware_Analysis/Report1/RedLine_Pcap_Analysis.md) |
 ReadLine Malware Traffic Analysis 2 | Analysis of ReadLine Stealer malware communication, C2 traffic, and exfiltration of system-sensitive data | [`readline-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/Malware_Traffic_Analysis/RedLine_Malware_Analysis/Report2/RedLine_Pcap_Analysis.md) |
-SquirrelWaffle_Malware_Analysis| Analysis of ReadLine Stealer malware communication, C2 traffic, and exfiltration of system-sensitive data | [`readline-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/tree/main/Malware_Traffic_Analysis/SquirrelWaffle_Malware_Analysis) |
+SquirrelWaffle_Malware_Analysis| Analysis of squirrelWaffle Stealer malware communication, C2 traffic, and exfiltration of system-sensitive data | [`squirrelWaffle-pcap-analysis.md`](https://github.com/FCyber88/CyberSec_Projects/blob/main/Malware_Traffic_Analysis/SquirrelWaffle_Malware_Analysis/Report/SquirrelWaffle_Pcap_Analysis.md) |
 
 
 
