@@ -3,7 +3,7 @@
 **Analyst:** Fouzia Mubeen  
 **Date:** March 29, 2026  
 **Case File:** `Wireshark-tutorial-on-decrypting-HTTPS-SSL-TLS-traffic.pcap`  
-**Lab Environment:** Kali Linux, Wireshark
+**Lab Environment:** Kali Linux, Wireshark , Oracle VirtualBox Manager
 
 ---
 
