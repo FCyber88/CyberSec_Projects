@@ -3,8 +3,7 @@
 **Analyst:** Fouzia Ayoob  
 **Date Created:** 2026-03-14  
 **Focus Area:** Malware Traffic Analysis, Network Packet Investigation, SOC Operations  
-**Tools Used:** Wireshark, Kali Linux, VirusTotal 
-**Oracle VM VirtualBox** – Used to create and manage a virtual lab environment
+**Tools Used:** Wireshark, Kali Linux, VirusTotal , Oracle VM VirtualBox
 
 ---
 
