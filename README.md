@@ -50,5 +50,5 @@ SquirrelWaffle_Malware_Analysis| Analysis of squirrelWaffle Stealer malware comm
 
 ## Notes
 
-- All PCAP files analyzed are sourced from publicly available training materials like Malware-Traffic-Analysis.net.  
+- All PCAP files analyzed are sourced from publicly available training materials like Malware-Traffic-Analysis.net , unit42.paloaltonetworks.com
 - This portfolio is intended to **demonstrate SOC analysis skills** for professional and educational purposes.  
